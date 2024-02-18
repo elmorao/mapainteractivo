@@ -1,0 +1,135 @@
+.leftside, .rightside{
+    height: 100hv;
+    width: 100%;
+}
+.Fondo{
+    padding-top: 1%;
+    background: #5F4545;
+}
+.rightside{
+    background: #5F4545;
+    min-height: 1255px;
+}
+
+.leftside{
+    min-height: 1255px;
+    background: #5F4545;
+}
+
+.mapadiv{
+    width: 83%;
+    margin: auto;
+}
+.mapadiv path{
+    fill:antiquewhite;
+    stroke: brown;
+    stroke-width: 1.5px;
+}
+
+.mapadiv :hover{
+    fill:coral;
+}
+
+.img{
+    margin-top: 10%;
+    margin-left: 32%;
+    width: 400px;
+   
+}
+
+.img2{
+    
+    margin-left: 20%;
+    width: 600px;
+    margin-bottom: 80px;
+   
+}
+
+/* Lugares que no puedes dejar de visitar en colombia */
+
+.title{
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 800px;
+    height: 350px;
+    left: 10px;
+    top: 202px;
+    
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 111px;
+    text-align: center;
+    
+    color: #000000;
+    
+    mix-blend-mode: darken;
+    
+}
+
+.line{
+    margin-left: 5%;
+    width: 900px;
+    height: 0px;
+    left: 10px;
+    top: 406px;
+    
+    border: 5px solid #000000;
+}
+
+.ventana{
+    background: #4E545C;
+    width: 90%;
+    color: #FFFFFF;
+    font-family: 'Merriweather', serif;
+    padding: 20px;
+    min-height: 800px;
+    border-radius: 22px;
+    position: absolute;
+    z-index: 1;
+    left: 5%;
+    top: 10%;
+
+    display: none;
+}
+
+#cerrar{
+    position: absolute;
+    right:10px;
+    top: 10px;
+}
+
+.vuelo{
+    width: 400px;   
+    margin-left: 38%;
+    margin-right: 40%;
+    padding-bottom: 2%;
+}
+.rightsideven{
+     margin-left: 100px;
+}
+
+.leftsideven{
+    
+    margin-right: 100px;
+}
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 100px;
+}
+.texto{
+    padding-top: 5%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+.imagenizq{
+    padding-left: 0%;
+    width: 500px;
+}
+
+
+
+
+
+
